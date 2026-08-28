@@ -1,8 +1,8 @@
-# Logistics Data Analyst Internship — Project
+# Logistics Data Analysis
 
-Python project completed for the **Logistics Data Analyst Intern** track on Yuva Intern, covering all four weekly milestones:
+Python project covering all four milestones:
 
-1. **Strategic Planning** — problem definition, KPIs, roadmap (see Week 1 report)
+1. **Strategic Planning** — problem definition, KPIs, roadmap 
 2. **Data Collection & Cleaning** — `scripts/generate_data.py`
 3. **Exploratory Data Analysis & Visualization** — `scripts/clean_eda_model.py`
 4. **Predictive Modeling & Optimization** — `scripts/clean_eda_model.py`
