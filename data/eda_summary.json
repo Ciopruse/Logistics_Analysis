@@ -1,0 +1,13 @@
+{
+  "mean_delivery_time": 0.94,
+  "median_delivery_time": 0.8,
+  "std_delivery_time": 0.6,
+  "mean_cost": 7150.66,
+  "overall_delay_rate_pct": 17.25,
+  "cheapest_mode": "Sea",
+  "fastest_mode": "Air",
+  "worst_region_delivery": "North",
+  "best_region_delivery": "Central",
+  "worst_carrier_delay": "Carrier A",
+  "strongest_corr_with_delivery_time": "distance_km"
+}

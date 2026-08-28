@@ -1,0 +1,46 @@
+{
+  "raw_rows": 1220,
+  "duplicates_found": 20,
+  "rows_after_dedup": 1200,
+  "missing_before": {
+    "shipment_id": 0,
+    "shipment_date": 0,
+    "origin_warehouse": 0,
+    "destination_region": 0,
+    "carrier": 18,
+    "transport_mode": 0,
+    "distance_km": 0,
+    "weight_kg": 48,
+    "shipment_volume_units": 0,
+    "inventory_level": 0,
+    "transportation_cost": 36,
+    "delivery_time_days": 24,
+    "delayed": 0
+  },
+  "missing_after": {
+    "shipment_id": 0,
+    "shipment_date": 0,
+    "origin_warehouse": 0,
+    "destination_region": 0,
+    "carrier": 0,
+    "transport_mode": 0,
+    "distance_km": 0,
+    "weight_kg": 0,
+    "shipment_volume_units": 0,
+    "inventory_level": 0,
+    "transportation_cost": 0,
+    "delivery_time_days": 0,
+    "delayed": 0
+  },
+  "outliers_capped_cost": 122,
+  "outliers_capped_delivery_time": 18,
+  "cost_bounds": [
+    -5538.26,
+    18295.03
+  ],
+  "delivery_time_bounds": [
+    -0.95,
+    2.65
+  ],
+  "clean_rows": 1200
+}
